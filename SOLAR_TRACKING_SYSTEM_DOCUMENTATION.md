@@ -29,7 +29,7 @@ The system operates in real-time, autonomously tracking the sun using Light Depe
 
 ---
 
-## 3. Firmware Details (`ldr.ino`)
+## 3. Firmware Details (`Board.ino`)
 
 ### Key Libraries used
 *   `AccelStepper`: High-performance control for the cleaning stepper motor (acceleration, speed).
